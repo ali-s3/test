@@ -11,11 +11,18 @@
 
 .row{
     border: black solid 2px;
+    width: 79rem;
+}
+.row::after{
+    content: "";
+    display: inline-block;
+    clear: both;
+    min-height: 10rem;
 }
 .imgbox1{
     border: red solid 2px;
     float: left;
-    width: 39.1rem;
+    width: 39.5rem;
     height: 10rem;
     background-image: url(./image/showcase-photo3.jpg);
     background-position: center;
@@ -26,5 +33,5 @@
     border: green solid 2px;
     float: right;
     height: 10rem;
-    width: 39.1rem;
+    width: 39rem;
 }
