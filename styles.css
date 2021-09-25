@@ -13,7 +13,7 @@
     border: red solid 2px;
     float: left;
     width: 39.5rem;
-    height: 10rem;
+    height: 17rem;
     background-image: url(./image/showcase-photo3.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -22,6 +22,6 @@
 .txtbox1{
     border: green solid 2px;
     float: right;
-    height: 10rem;
+    height: 17rem;
     width: 39rem;
 }
