@@ -9,10 +9,11 @@
     }
 }
 
+
+
 .imgbox1{
-    border: red solid 2px;
     float: left;
-    width: 39.5rem;
+    width: 33.999rem;
     height: 17rem;
     background-image: url(./image/showcase-photo3.jpg);
     background-position: center;
@@ -20,8 +21,7 @@
     background-size: cover;
 }
 .txtbox1{
-    border: green solid 2px;
     float: right;
     height: 17rem;
-    width: 39rem;
+    
 }
