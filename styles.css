@@ -14,8 +14,7 @@
     width: 79rem;
 }
 .row::after{
-    content: "";
-    clear: both;
+   
 }
 .imgbox1{
     border: red solid 2px;
