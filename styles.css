@@ -9,13 +9,6 @@
     }
 }
 
-.row{
-    border: black solid 2px;
-    width: 79rem;
-}
-.row::after{
-   
-}
 .imgbox1{
     border: red solid 2px;
     float: left;
