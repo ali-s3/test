@@ -15,7 +15,7 @@
 }
 .row::after{
     content: "";
-    display: inline-block;
+    display: block;
     clear: both;
     min-height: 10rem;
 }
