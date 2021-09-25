@@ -17,7 +17,6 @@
     content: "";
     display: block;
     clear: both;
-    min-height: 10rem;
 }
 .imgbox1{
     border: red solid 2px;
